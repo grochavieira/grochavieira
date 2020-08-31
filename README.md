@@ -9,8 +9,9 @@
 
 ### Entre em contato:
 
+[<img align="left" alt="grochavieira | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="grochaviera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="grochavieira | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][linkedin]
+
 
 <br />
 
@@ -37,7 +38,8 @@
 ---
 
 ### :zap: Status do Github
-  <img align="left" alt="Guilherme´s github stats" src="https://github-readme-stats.vercel.app/api?username=grochavieira&show_icons=true&hide_border=true&theme=dracula" />
+  <img align="left" alt="Guilherme´s github stats" src="https://github-readme-stats.vercel.app/api?username=grochavieira&show_icons=true&hide_border=true" />
 
 
 [linkedin]: https://www.linkedin.com/in/grochavieira/
+[gmail]: guirocha.hopeisaba@gmail.com
