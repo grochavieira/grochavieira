@@ -9,7 +9,6 @@
 
 ### Entre em contato:
 
-[<img align="left" alt="grochavieira | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="grochaviera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
@@ -42,4 +41,3 @@
 
 
 [linkedin]: https://www.linkedin.com/in/grochavieira/
-[gmail]: guirocha.hopeisaba@gmail.com
