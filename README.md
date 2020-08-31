@@ -34,10 +34,10 @@
 <br />
 <br />
 
+---
 
 ### :zap: Status do Github
   <img align="left" alt="Guilherme´s github stats" src="https://github-readme-stats.vercel.app/api?username=grochavieira&show_icons=true&hide_border=true&theme=dracula" />
 
----
 
 [linkedin]: https://www.linkedin.com/in/grochavieira/
