@@ -2,7 +2,7 @@
 
 - 📖 No presente momento faço graduação de Ciência da Computação na FEI
 - 🌱 Atualmente estou aprendendo um pouco de tudo, mas principalmente sobre bibliotecas e frameworks JavaScript.
-- 👯 Estou buscando desenvolver projetos pessoais.
+- 👯 Estou buscando desenvolver mais projetos pessoais.
 - 🥅 Metas de 2020: Me desafiar a aceitar mais riscos, sejam pessoais ou profissionais.
 
 ---
