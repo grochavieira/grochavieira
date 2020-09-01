@@ -41,19 +41,22 @@
 ### ⭐ Top Projects
 
 <a href="https://github.com/grochavieira/EntityEditor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=EntityEditor&theme=beaufy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=EntityEditor&theme=buefy" />
+</a>
+&nbsp; &nbsp;
+<a href="https://github.com/grochavieira/RecreationalClub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=RecreationalClub&theme=buefy" />
 </a>
 
-<a href="https://github.com/grochavieira/RecreationalClub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=RecreationalClub&theme=beaufy" />
-</a>
+<br />
+<br />
 
 <a href="https://github.com/grochavieira/InventoryControl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=InventoryControl&theme=beaufy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=InventoryControl&theme=buefy" />
 </a>
-
+&nbsp; &nbsp;
 <a href="https://github.com/grochavieira/SmartCoffeMakerRemoteControlSimulator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=SmartCoffeMakerRemoteControlSimulator&theme=beaufy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=SmartCoffeMakerRemoteControlSimulator&theme=buefy" />
 </a>
 
 ---
