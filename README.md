@@ -43,7 +43,19 @@
   <img align="center" alt="Guilherme´s github stats" src="https://github-readme-stats.vercel.app/api?username=grochavieira&show_icons=true&hide_border=true" />
 
 
-### Top Projects
+### ⭐ Top Projects
+
+<a href="https://github.com/grochavieira/EntityEditor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=EntityEditor&theme=vue-dark" />
+</a>
+
+<a href="https://github.com/grochavieira/EntityEditor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=EntityEditor&theme=vue-dark" />
+</a>
+
+<a href="https://github.com/grochavieira/EntityEditor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=EntityEditor&theme=vue-dark" />
+</a>
 
 <a href="https://github.com/grochavieira/EntityEditor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=EntityEditor&theme=vue-dark" />
