@@ -2,7 +2,7 @@
 
 - 📖 No presente momento faço graduação de Ciência da Computação na FEI
 - 🌱 Atualmente estou aprendendo um pouco de tudo, mas principalmente sobre bibliotecas e frameworks JavaScript.
-- 👯 Estou buscando desenvolver mais projetos pessoais.
+- 🦸‍♂️ Estou buscando desenvolver mais projetos pessoais.
 - 🥅 Metas de 2020: Me desafiar a aceitar mais riscos, sejam pessoais ou profissionais.
 
 ---
@@ -41,19 +41,19 @@
 ### ⭐ Top Projects
 
 <a href="https://github.com/grochavieira/EntityEditor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=EntityEditor&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=EntityEditor&theme=beaufy" />
 </a>
 
 <a href="https://github.com/grochavieira/RecreationalClub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=RecreationalClub&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=RecreationalClub&theme=beaufy" />
 </a>
 
 <a href="https://github.com/grochavieira/InventoryControl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=InventoryControl&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=InventoryControl&theme=beaufy" />
 </a>
 
 <a href="https://github.com/grochavieira/SmartCoffeMakerRemoteControlSimulator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=SmartCoffeMakerRemoteControlSimulator&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=SmartCoffeMakerRemoteControlSimulator&theme=beaufy" />
 </a>
 
 ---
