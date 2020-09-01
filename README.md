@@ -40,9 +40,7 @@
 
 ### ⭐ Top Projects
 
-<a href="https://github.com/grochavieira/EntityEditor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=EntityEditor&title_color=33ff&icon_color=333" />
-</a>
+
 &nbsp; &nbsp;
 <a href="https://github.com/grochavieira/RecreationalClub">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=RecreationalClub&title_color=33ff&icon_color=333" />
