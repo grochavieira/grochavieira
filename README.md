@@ -25,7 +25,6 @@
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -40,7 +39,14 @@
 ---
 
 ### :zap: Status do Github
-  <img align="left" alt="Guilherme´s github stats" src="https://github-readme-stats.vercel.app/api?username=grochavieira&show_icons=true&hide_border=true" />
 
+  <img align="center" alt="Guilherme´s github stats" src="https://github-readme-stats.vercel.app/api?username=grochavieira&show_icons=true&hide_border=true" />
+
+
+### Top Projects
+
+<a href="https://github.com/grochavieira/EntityEditor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=EntityEditor&theme=vue-dark" />
+</a>
 
 [linkedin]: https://www.linkedin.com/in/grochavieira/
