@@ -38,27 +38,31 @@
 
 ---
 
-### :zap: Status do Github
-
-  <img align="center" alt="Guilherme´s github stats" src="https://github-readme-stats.vercel.app/api?username=grochavieira&show_icons=true&hide_border=true" />
-
-
 ### ⭐ Top Projects
 
 <a href="https://github.com/grochavieira/EntityEditor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=EntityEditor&theme=vue-dark" />
 </a>
 
-<a href="https://github.com/grochavieira/EntityEditor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=EntityEditor&theme=vue-dark" />
+<a href="https://github.com/grochavieira/RecreationalClub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=RecreationalClub&theme=vue-dark" />
 </a>
 
-<a href="https://github.com/grochavieira/EntityEditor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=EntityEditor&theme=vue-dark" />
+<a href="https://github.com/grochavieira/InventoryControl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=InventoryControl&theme=vue-dark" />
 </a>
 
-<a href="https://github.com/grochavieira/EntityEditor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=EntityEditor&theme=vue-dark" />
+<a href="https://github.com/grochavieira/SmartCoffeMakerRemoteControlSimulator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=SmartCoffeMakerRemoteControlSimulator&theme=vue-dark" />
 </a>
+
+---
+
+### :zap: Status do Github
+
+  <img align="center" alt="Guilherme´s github stats" src="https://github-readme-stats.vercel.app/api?username=grochavieira&show_icons=true&hide_border=true" />
+
+
+
 
 [linkedin]: https://www.linkedin.com/in/grochavieira/
