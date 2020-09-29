@@ -10,6 +10,8 @@
 ### Entre em contato:
 
 [<img align="left" alt="grochaviera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="grochaviera | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="grochaviera | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
 <br />
@@ -69,3 +71,5 @@
 
 
 [linkedin]: https://www.linkedin.com/in/grochavieira/
+[instagram]: https://www.instagram.com/grochavieira/
+[twitter]: https://twitter.com/grochavieira
