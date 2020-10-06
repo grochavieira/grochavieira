@@ -5,6 +5,8 @@
 - 🦸‍♂️ Estou buscando desenvolver mais projetos pessoais.
 - 🥅 Metas de 2020: Me desafiar a aceitar mais riscos, sejam pessoais ou profissionais.
 
+<br/>
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -21,16 +23,6 @@
   </a>
 </p>
 
-
----
-
-### Entre em contato:
-
-[<img align="left" alt="grochaviera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="grochaviera | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="grochaviera | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br />
 
 ---
 
@@ -144,6 +136,16 @@
 <a href="https://github.com/grochavieira/SmartCoffeMakerRemoteControlSimulator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=SmartCoffeMakerRemoteControlSimulator&title_color=33ff&icon_color=333" />
 </a>
+
+---
+
+### Entre em contato:
+
+[<img align="left" alt="grochaviera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="grochaviera | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="grochaviera | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+<br />
 
 ---
 
