@@ -5,6 +5,23 @@
 - 🦸‍♂️ Estou buscando desenvolver mais projetos pessoais.
 - 🥅 Metas de 2020: Me desafiar a aceitar mais riscos, sejam pessoais ou profissionais.
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=grochavieira&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=grochavieira&show_icons=true&hide_border=true&title_color=33ff&icon_color=ff3366"
+    />
+  </a>
+</p>
+
+
 ---
 
 ### Entre em contato:
@@ -129,24 +146,6 @@
 </a>
 
 ---
-
-### :zap: Status do Github
-
-  <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=grochavieira&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=grochavieira&show_icons=true&hide_border=true&title_color=33ff&icon_color=ff3366"
-    />
-  </a>
-</p>
 
 [linkedin]: https://www.linkedin.com/in/grochavieira/
 [instagram]: https://www.instagram.com/grochavieira/
