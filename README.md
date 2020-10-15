@@ -62,6 +62,9 @@
     <a href="#" target="_blank">
         <img width="40px" height="40px" alt="SASS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
     </a>
+    <a href="#" target="_blank">
+        <img width="40px" height="40px" alt="SASS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" />
+    </a>
 
   <a href="https://reactjs.org/" target="_blank">
     <img
