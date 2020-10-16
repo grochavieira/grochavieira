@@ -63,16 +63,22 @@
         <img width="40px" height="40px" alt="SASS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
     </a>
     <a href="#" target="_blank">
-        <img width="40px" height="40px" alt="SASS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" />
+        <img width="40px" height="40px" alt="Styled Components" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" />
     </a>
 
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
+  <a href="https://reactjs.org/">
+      <img 
+          src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-react.svg"
+          alt="logo React"
+          width="50px"
+          style="border-radius: 8px;">
+  </a>
+  <a href="https://reactnative.dev/">
+      <img 
+          src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-react-native.svg"
+          alt="logo React native"
+          width="50px"
+          style="border-radius: 8px;">
   </a>
   <a href="https://nodejs.org" target="_blank">
     <img
