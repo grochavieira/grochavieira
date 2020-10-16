@@ -132,33 +132,35 @@
 
 ### ⭐ Top Projects
 
-<a href="https://github.com/grochavieira/EntityEditor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=EntityEditor&title_color=33ff&icon_color=333" />
-</a>
-&nbsp; &nbsp;
-<a href="https://github.com/grochavieira/RecreationalClub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=RecreationalClub&title_color=33ff&icon_color=333" />
-</a>
+<p align="center">
+  <a href="https://github.com/grochavieira/EntityEditor">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=EntityEditor&title_color=33ff&icon_color=333" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://github.com/grochavieira/RecreationalClub">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=RecreationalClub&title_color=33ff&icon_color=333" />
+  </a>
 
-<br />
-<br />
+  <br />
+  <br />
 
-<a href="https://github.com/grochavieira/InventoryControl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=InventoryControl&title_color=33ff&icon_color=333" />
-</a>
-&nbsp; &nbsp;
-<a href="https://github.com/grochavieira/SmartCoffeMakerRemoteControlSimulator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=SmartCoffeMakerRemoteControlSimulator&title_color=33ff&icon_color=333" />
-</a>
-
+  <a href="https://github.com/grochavieira/InventoryControl">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=InventoryControl&title_color=33ff&icon_color=333" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://github.com/grochavieira/SmartCoffeMakerRemoteControlSimulator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=SmartCoffeMakerRemoteControlSimulator&title_color=33ff&icon_color=333" />
+  </a>
+</p>
 ---
 
 ### Entre em contato:
 
-[<img align="left" alt="grochaviera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="grochaviera | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="grochaviera | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
+<p align="center">
+  [<img align="left" alt="grochaviera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  [<img align="left" alt="grochaviera | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+  [<img align="left" alt="grochaviera | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+</p>
 <br />
 
 ---
