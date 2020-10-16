@@ -152,6 +152,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=SmartCoffeMakerRemoteControlSimulator&title_color=33ff&icon_color=333" />
   </a>
 </p>
+
 ---
 
 ### Entre em contato:
