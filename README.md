@@ -53,18 +53,18 @@
       height="40"
     />
   </a>
-    <a href="#" target="_blank">
-        <img width="40px" height="40px" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-    </a>
-    <a href="#" target="_blank">
-        <img width="40px" height="40px" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-    </a>
-    <a href="#" target="_blank">
-        <img width="40px" height="40px" alt="SASS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-    </a>
-    <a href="#" target="_blank">
-        <img width="40px" height="40px" alt="Styled Components" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" />
-    </a>
+  <a href="#" target="_blank">
+      <img width="40px" height="40px" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  </a>
+  <a href="#" target="_blank">
+      <img width="40px" height="40px" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  </a>
+  <a href="#" target="_blank">
+      <img width="40px" height="40px" alt="SASS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+  </a>
+  <a href="#" target="_blank">
+      <img width="40px" height="40px" alt="Styled Components" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" />
+  </a>
 
   <a href="https://reactjs.org/">
       <img 
@@ -106,18 +106,24 @@
       height="40"
     />
   </a>
-    <a href="#" target="_blank">
-        <img alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-    </a>
-    <a href="#" target="_blank">
-        <img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-    </a>
-    <a href="#" target="_blank">
-        <img width="40px" height="40px" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-    </a>
-    <a href="#" target="_blank">
-        <img alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-    </a>
+  <a href="https://git-scm.com/">
+      <img 
+          src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-git.svg" 
+          alt="logo git"
+          width="40px">
+  </a>
+  <a href="#" target="_blank">
+      <img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+      <img 
+          src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-vscode.svg" 
+          alt="logo Vscode"
+          width="40px">
+  </a>
+  <a href="#" target="_blank">
+      <img alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+  </a>
 </p>
 
 <br />
