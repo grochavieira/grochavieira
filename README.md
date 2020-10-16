@@ -70,27 +70,26 @@
       <img 
           src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-react.svg"
           alt="logo React"
-          width="50px"
+          width="40px"
           style="border-radius: 8px;">
   </a>
   <a href="https://reactnative.dev/">
       <img 
           src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-react-native.svg"
           alt="logo React native"
-          width="50px"
+          width="40px"
           style="border-radius: 8px;">
   </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
+  <a href="https://nodejs.org/en/">
+      <img 
+          src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-nodejs.svg" 
+          alt="logo Node.js"
+          width="40px"
+          style="border-radius: 8px;">
   </a>
-    <a href="#" target="_blank">
-        <img alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-    </a>
+  <a href="https://www.sqlite.org/index.html" target="_blank">
+      <img alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+  </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
