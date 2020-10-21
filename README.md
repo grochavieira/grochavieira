@@ -148,8 +148,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=InventoryControl&title_color=33ff&icon_color=333" />
   </a>
   &nbsp; &nbsp;
-  <a href="https://github.com/grochavieira/SmartCoffeMakerRemoteControlSimulator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=SmartCoffeMakerRemoteControlSimulator&title_color=33ff&icon_color=333" />
+  <a href="https://github.com/grochavieira/InstagramClone">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=InstagramClone&title_color=33ff&icon_color=333" />
   </a>
 </p>
 
