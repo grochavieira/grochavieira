@@ -39,7 +39,7 @@
     target="_blank"
   >
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
       alt="javascript"
       width="40"
       height="40"
@@ -47,7 +47,7 @@
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
       alt="typescript"
       width="40"
       height="40"
@@ -92,7 +92,7 @@
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
       width="40"
       height="40"
@@ -100,7 +100,7 @@
   </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgresql"
       width="40"
       height="40"
