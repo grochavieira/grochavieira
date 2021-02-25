@@ -140,10 +140,10 @@
 
 ### Entre em contato:
 
-<table align="center" width="100%">
+<table align="center" width="20%">
   <tr align="center">
     
-  <td width="20%">
+  <td width="100%">
     <a href="https://www.linkedin.com/in/grochavieira/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
     </a>
