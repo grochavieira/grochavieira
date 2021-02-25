@@ -11,7 +11,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=grochavieira&layout=compact&title_color=33ff&icon_color=ff3366&theme=radical"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=grochavieira&layout=compact&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -119,22 +119,22 @@
 
 <p align="center">
   <a href="https://github.com/grochavieira/EntityEditor">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=EntityEditor&title_color=33ff&icon_color=333" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=EntityEditor&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical" />
   </a>
   &nbsp; &nbsp;
   <a href="https://github.com/grochavieira/RecreationalClub">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=RecreationalClub&title_color=33ff&icon_color=333" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=RecreationalClub&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical />
   </a>
 
   <br />
   <br />
 
   <a href="https://github.com/grochavieira/InventoryControl">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=InventoryControl&title_color=33ff&icon_color=333" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=InventoryControl&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical" />
   </a>
   &nbsp; &nbsp;
   <a href="https://github.com/grochavieira/InstagramClone">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=InstagramClone&title_color=33ff&icon_color=333" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=InstagramClone&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical" />
   </a>
 </p>
 
