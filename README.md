@@ -11,14 +11,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=grochavieira&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=grochavieira&layout=compact&title_color=33ff&icon_color=ff3366&theme=radical"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=grochavieira&show_icons=true&hide_border=true&title_color=33ff&icon_color=ff3366"
+      src="https://github-readme-stats.vercel.app/api?username=grochavieira&show_icons=true&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical"
     />
   </a>
 </p>
