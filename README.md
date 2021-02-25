@@ -123,7 +123,7 @@
   </a>
   &nbsp; &nbsp;
   <a href="https://github.com/grochavieira/RecreationalClub">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=RecreationalClub&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=RecreationalClub&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical" />
   </a>
 
   <br />
