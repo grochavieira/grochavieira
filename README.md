@@ -111,8 +111,6 @@
 
 <br />
 
-<br />
-
 ---
 
 ### ⭐ Top Projects
@@ -142,22 +140,19 @@
 
 ### Entre em contato:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/grochavieira/">
-  <img alt="grochaviera | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="https://www.instagram.com/grochavieira/">
-  <img alt="grochaviera | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-  <a href="https://twitter.com/grochavieira">
-  <img alt="grochaviera | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
-</p>
+<table align="center" width="100%">
+  <tr align="center">
+    
+  <td width="20%">
+    <a href="https://www.linkedin.com/in/grochavieira/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+    </a>
+  </td>  
+  
+  </tr>
+  
+</table>
 
 <br />
 
 ---
-
-[linkedin]: https://www.linkedin.com/in/grochavieira/
-[instagram]: https://www.instagram.com/grochavieira/
-[twitter]: https://twitter.com/grochavieira
