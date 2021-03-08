@@ -127,8 +127,8 @@
   <br />
   <br />
 
-  <a href="https://github.com/grochavieira/InventoryControl">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=InventoryControl&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical" />
+  <a href="https://github.com/grochavieira/MoveIt">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=MoveIt&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical" />
   </a>
   &nbsp; &nbsp;
   <a href="https://github.com/grochavieira/InstagramClone">
