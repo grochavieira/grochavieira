@@ -117,18 +117,18 @@
 
 <p align="center">
   <a href="https://github.com/grochavieira/EntityEditor">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=EntityEditor&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=entity-editor&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical" />
   </a>
   &nbsp; &nbsp;
   <a href="https://github.com/grochavieira/RecreationalClub">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=RecreationalClub&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=recreational-club&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical" />
   </a>
 
   <br />
   <br />
 
   <a href="https://github.com/grochavieira/MoveIt">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=MoveIt&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=moveit&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical" />
   </a>
   &nbsp; &nbsp;
   <a href="https://github.com/grochavieira/InstagramClone">
