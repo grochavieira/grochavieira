@@ -117,7 +117,7 @@
 
 <p align="center">
   <a href="https://github.com/grochavieira/happy-frontend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=happy&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=happy-frontend&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical" />
   </a>
   &nbsp; &nbsp;
   <a href="https://github.com/grochavieira/recreational-club">
