@@ -116,22 +116,22 @@
 ### ⭐ Top Projects
 
 <p align="center">
-  <a href="https://github.com/grochavieira/EntityEditor">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=entity-editor&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical" />
+  <a href="https://github.com/grochavieira/happy-frontend">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=happy&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical" />
   </a>
   &nbsp; &nbsp;
-  <a href="https://github.com/grochavieira/RecreationalClub">
+  <a href="https://github.com/grochavieira/recreational-club">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=recreational-club&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical" />
   </a>
 
   <br />
   <br />
 
-  <a href="https://github.com/grochavieira/MoveIt">
+  <a href="https://github.com/grochavieira/moveit">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=moveit&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical" />
   </a>
   &nbsp; &nbsp;
-  <a href="https://github.com/grochavieira/InstagramClone">
+  <a href="https://github.com/grochavieira/instagram-clone-frontend">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=instagram-clone-frontend&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical" />
   </a>
 </p>
