@@ -1,6 +1,7 @@
 ### Olá, eu sou o Guilherme Rocha Vieira 👋
 
 - 📖 No presente momento estou no último ano do curso de Ciência da Computação na FEI.
+- 💼 Trabalhando como Estágiario na Nèscara.
 - 🌱 Atualmente estou aprendendo um pouco de tudo, mas principalmente sobre bibliotecas e frameworks JavaScript.
 - 🦸‍♂️ Estou buscando desenvolver mais projetos pessoais.
 - 🥅 Metas de 2021: Me desafiar a aceitar mais riscos, sejam pessoais ou profissionais.
