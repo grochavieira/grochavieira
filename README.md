@@ -146,6 +146,7 @@
     
   <td width="100%">
     <a href="https://www.linkedin.com/in/grochavieira/">
+      
     <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
     </a>
   </td>  
