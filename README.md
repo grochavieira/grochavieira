@@ -8,20 +8,9 @@
 
 #### Entre em contato: 
 
-<table align="center" width="20%">
-  <tr align="center">
-    
-  <td width="100%">
-    <a href="https://www.linkedin.com/in/grochavieira/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-    </a>
-  </td>  
-  
-  </tr>
-  
-</table>
-
-<br />
+<a href="https://www.linkedin.com/in/grochavieira/">
+  <img src="https://img.shields.io/badge/-@grochavieira-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/grochavieira/" alt="LinkedIn Badge">
+</a>
 
 ---
 
