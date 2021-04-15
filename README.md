@@ -25,7 +25,7 @@
 
 ---
 
-## Status do Github
+### Status do Github
 
 <p align="center">
   
