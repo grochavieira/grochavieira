@@ -25,15 +25,10 @@
 
 ---
 
-<br/>
+## Status do Github
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=grochavieira&layout=compact&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical"
-    />
-  </a>
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
