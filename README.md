@@ -6,6 +6,25 @@
 - 🦸‍♂️ Estou buscando desenvolver mais projetos pessoais.
 - 🥅 Metas de 2021: Me desafiar a aceitar mais riscos, sejam pessoais ou profissionais.
 
+#### Entre em contato: 
+
+<table align="center" width="20%">
+  <tr align="center">
+    
+  <td width="100%">
+    <a href="https://www.linkedin.com/in/grochavieira/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+    </a>
+  </td>  
+  
+  </tr>
+  
+</table>
+
+<br />
+
+---
+
 <br/>
 
 <p align="center">
@@ -109,50 +128,6 @@
 
 <a href="#" target="_blank">
 </a>
-
-<br />
-
----
-
-### ⭐ Top Projects
-
-<p align="center">
-  <a href="https://github.com/grochavieira/happy-frontend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=happy-frontend&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical" />
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://github.com/grochavieira/recreational-club">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=recreational-club&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical" />
-  </a>
-
-  <br />
-  <br />
-
-  <a href="https://github.com/grochavieira/moveit">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=moveit&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical" />
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://github.com/grochavieira/instagram-clone-frontend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grochavieira&repo=instagram-clone-frontend&hide_border=true&title_color=33ff&icon_color=ff3366&theme=radical" />
-  </a>
-</p>
-
----
-
-### Entre em contato:
-
-<table align="center" width="20%">
-  <tr align="center">
-    
-  <td width="100%">
-    <a href="https://www.linkedin.com/in/grochavieira/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-    </a>
-  </td>  
-  
-  </tr>
-  
-</table>
 
 <br />
 
