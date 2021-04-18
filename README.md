@@ -12,9 +12,9 @@
 - <p align="justify">💼 Estou trabalhando como Estágiario de desenvolvimento na Nèscara.</p>
 - <p align="justify">🌱 Atualmente estou aprendendo um pouco de tudo, mas principalmente sobre Apex e bibliotecas/frameworks JavaScript.</p>
 - <p align="justify"> 🦸‍♂️ Estou buscando desenvolver mais projetos pessoais.</p>
-- <p align="justify"> 🥅 Metas de 2021: Me desafiar a aceitar mais riscos, sejam pessoais ou profissionais.</p>
+- <p align="justify"> 🥅 Metas de 2021: Me desafiar a aceitar mais riscos, sejam </br>pessoais ou profissionais.</p>
 
-#### Entre em contato: 
+### Entre em contato: 
 
 <a href="https://www.linkedin.com/in/grochavieira/">
   <img src="https://img.shields.io/badge/-@grochavieira-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/grochavieira/" alt="LinkedIn Badge">
