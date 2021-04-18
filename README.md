@@ -1,4 +1,14 @@
-### Olá, eu sou o Guilherme Rocha Vieira 👋
+## Olá, eu sou o Guilherme Rocha Vieira 👋
+
+<p align="center">
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="right" width="50%"
+      src="https://github-readme-stats.vercel.app/api?username=grochavieira&include_all_commits=true&show_icons=true&hide_border=true&bg_color=30,28E7B1,17D6EB&title_color=000411&text_color=000411&icon_color=333"
+    />
+  </a>
+</p>
 
 - 📖 No presente momento estou no último ano do curso de Ciência da Computação na FEI.
 - 💼 Trabalhando como Estágiario na Nèscara.
@@ -11,22 +21,6 @@
 <a href="https://www.linkedin.com/in/grochavieira/">
   <img src="https://img.shields.io/badge/-@grochavieira-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/grochavieira/" alt="LinkedIn Badge">
 </a>
-
----
-
-### Status do Github
-
-<p align="center">
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=grochavieira&include_all_commits=true&show_icons=true&hide_border=true&bg_color=30,28E7B1,17D6EB&title_color=000411&text_color=000411&icon_color=333"
-    />
-  </a>
-</p>
-
 
 ---
 
