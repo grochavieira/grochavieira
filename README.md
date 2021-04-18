@@ -1,18 +1,17 @@
 ## Olá, eu sou o Guilherme Rocha Vieira 👋
 
+- 📖 No presente momento estou no último ano do curso de Ciência da Computação na FEI.
+- 💼 Estou trabalhando como Estágiario de desenvolvimento na Nèscara.
+- 🌱 Atualmente estou aprendendo um pouco de tudo, mas principalmente sobre Apex e bibliotecas/frameworks JavaScript.
+- 🦸‍♂️ Estou buscando desenvolver mais projetos pessoais.
+- 🥅 Metas de 2021: Me desafiar a aceitar mais riscos, sejam </br>pessoais ou profissionais.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
-    align="right" width="50%"
+    align="center" width="50%"
     src="https://github-readme-stats.vercel.app/api?username=grochavieira&include_all_commits=true&show_icons=true&hide_border=true&bg_color=30,28E7B1,17D6EB&title_color=000411&text_color=000411&icon_color=333"
   />
 </a>
-
-- <p align="justify">📖 No presente momento estou no último ano do curso de Ciência da Computação na FEI.</p>
-- <p align="justify">💼 Estou trabalhando como Estágiario de desenvolvimento na Nèscara.</p>
-- <p align="justify">🌱 Atualmente estou aprendendo um pouco de tudo, mas principalmente sobre Apex e bibliotecas/frameworks JavaScript.</p>
-- <p align="justify"> 🦸‍♂️ Estou buscando desenvolver mais projetos pessoais.</p>
-- <p align="justify"> 🥅 Metas de 2021: Me desafiar a aceitar mais riscos, sejam </br>pessoais ou profissionais.</p>
 
 ### Entre em contato: 
 
