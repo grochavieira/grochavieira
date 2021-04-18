@@ -14,7 +14,7 @@
 - 💼 Estou trabalhando como Estágiario de desenvolvimento na Nèscara.
 - 🌱 Atualmente estou aprendendo um pouco de tudo, mas principalmente sobre Apex e bibliotecas/frameworks JavaScript.
 - 🦸‍♂️ Estou buscando desenvolver mais projetos pessoais.
-- 🥅 Metas de 2021: Me desafiar a aceitar mais riscos, sejam pessoais ou profissionais.
+- 🥅 Metas de 2021: Me desafiar a aceitar mais riscos, sejam <br/> pessoais ou profissionais.
 
 #### Entre em contato: 
 
