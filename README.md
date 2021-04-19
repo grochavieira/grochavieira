@@ -6,12 +6,14 @@
 - 🦸‍♂️ Estou buscando desenvolver mais projetos pessoais.
 - 🥅 Metas de 2021: Me desafiar a aceitar mais riscos, sejam </br>pessoais ou profissionais.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    align="center" width="50%"
-    src="https://github-readme-stats.vercel.app/api?username=grochavieira&include_all_commits=true&show_icons=true&hide_border=true&bg_color=30,28E7B1,17D6EB&title_color=000411&text_color=000411&icon_color=333"
-  />
-</a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center" width="50%"
+      src="https://github-readme-stats.vercel.app/api?username=grochavieira&include_all_commits=true&show_icons=true&hide_border=true&bg_color=30,28E7B1,17D6EB&title_color=000411&text_color=000411&icon_color=333"
+    />
+  </a>
+</p>
 
 ### Entre em contato: 
 
