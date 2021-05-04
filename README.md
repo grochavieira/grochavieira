@@ -5,7 +5,7 @@
 ## Olá, Bem Vindo ao meu Perfil 👋
 
 - 📖 No presente momento estou no último ano do curso de Ciência da Computação na FEI.
-- 💼 Estou trabalhando como Estágiario de desenvolvimento na Nèscara.
+- 💼 Estou trabalhando como Estágiario de Desenvolvimento na Nèscara.
 - 🌱 Atualmente estou aprendendo um pouco de tudo, mas principalmente sobre Apex e bibliotecas/frameworks JavaScript.
 - 🦸‍♂️ Estou buscando desenvolver mais projetos pessoais.
 - 🥅 Metas de 2021: Me desafiar a aceitar mais riscos, sejam pessoais ou profissionais.
