@@ -13,7 +13,8 @@
 ### Entre em contato:
 
 <a href="https://www.linkedin.com/in/grochavieira/">
-  <img src="https://img.shields.io/badge/-@grochavieira-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/grochavieira/" alt="LinkedIn Badge"></a>
+  <img src="https://img.shields.io/badge/-@grochavieira-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/grochavieira/" alt="LinkedIn Badge">
+</a>
 
 ---
 
