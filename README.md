@@ -5,7 +5,7 @@
 ## Olá, Bem Vindo ao meu Perfil 👋
 
 - 📖 No presente momento finalizei meu curso de Ciência da Computação na FEI.
-- 💼 Estou trabalhando como Desenvolvedor Salesforce Pleno na Nèscara.
+- 💼 Estou trabalhando como Desenvolvedor Salesforce Sênior na Nèscara.
 - 🌱 Atualmente estou aprendendo um pouco de tudo, mas principalmente sobre Apex e bibliotecas/frameworks JavaScript.
 - 🦸‍♂️ Estou buscando desenvolver mais projetos pessoais.
 - 🥅 Metas de 2022: Me desafiar a aceitar mais riscos, sejam pessoais ou profissionais.
